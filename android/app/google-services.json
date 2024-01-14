@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "481444065193",
+    "project_id": "putrago-5b617",
+    "storage_bucket": "putrago-5b617.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:481444065193:android:896ecdaa29ef31f2615eb8",
+        "android_client_info": {
+          "package_name": "com.example.putra_go"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA5sDFxCNtzODfaoirCKuHvz1d4CEJwcTQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
